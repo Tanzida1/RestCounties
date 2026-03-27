@@ -1,0 +1,10 @@
+
+.Country{
+    border: 2px solid tomato;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.Country-visited{
+    background-color: darkgray;
+}
